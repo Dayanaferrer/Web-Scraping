@@ -1,0 +1,9 @@
+# Arquivos de cache/dados gerados pelo Python
+__pycache__/
+*.pyc
+
+# Arquivos de cache do sistema operacional
+.DS_Store
+
+# Arquivos gerados pelo ambiente virtual Python
+venv/
